@@ -1,5 +1,5 @@
 # MixerSENet
-Source code for "MixerSENet: A Lightweight Framework for Efficient Hyperspectral Image Classification" Accepted for publication in **IEEE Geoscience and Remote Sensing Letter**
+Source code for "MixerSENet: A Lightweight Framework for Efficient Hyperspectral Image Classification" Accepted for publication in **IEEE Geoscience and Remote Sensing Letter (GRSL).**
 <img width="997" height="354" alt="image" src="https://github.com/user-attachments/assets/be2897fd-ffce-4fb5-86d6-e3a5d76fabc4" />
 
 # Requirements:
