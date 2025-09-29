@@ -11,4 +11,5 @@ https://mega.nz/folder/zoJDhJKI#bNj3Xr0iLenBN12QdmGccw
 
 # Results:
 To quantitatively measure the proposed MixerSENet model, three evaluation metrics are employed to verify the effectiveness of the algorithm, Overall Accuracy (OA), Average Accuracy (AA) and Cohen's Kappa (k). Also, Each class accuracy has been reported.
-![Uploading image.png…]()
+<img width="739" height="843" alt="image" src="https://github.com/user-attachments/assets/4e8a71f1-8978-415d-ad05-0dd534a8ecf1" />
+
