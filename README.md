@@ -13,3 +13,13 @@ https://mega.nz/folder/zoJDhJKI#bNj3Xr0iLenBN12QdmGccw
 To quantitatively measure the proposed MixerSENet model, three evaluation metrics are employed to verify the effectiveness of the algorithm, Overall Accuracy (OA), Average Accuracy (AA) and Cohen's Kappa (k). Also, Each class accuracy has been reported.
 <img width="739" height="843" alt="image" src="https://github.com/user-attachments/assets/4e8a71f1-8978-415d-ad05-0dd534a8ecf1" />
 
+# Citation
+@ARTICLE{11186508,
+  author={Alkhatib, Mohammed Q. and Roy, Swalpa Kumar and Jamali, Ali},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={MixerSENet: A Lightweight Framework for Efficient Hyperspectral Image Classification}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/LGRS.2025.3616338}}
