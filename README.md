@@ -17,11 +17,11 @@ To quantitatively measure the proposed MixerSENet model, three evaluation metric
 
 # Citation
 @ARTICLE{11186508,
-  author={Alkhatib, Mohammed Q. and Roy, Swalpa Kumar and Jamali, Ali},
+  author={Alkhatib, Mohammed Q. and Kumar Roy, Swalpa and Jamali, Ali},
   journal={IEEE Geoscience and Remote Sensing Letters}, 
   title={MixerSENet: A Lightweight Framework for Efficient Hyperspectral Image Classification}, 
   year={2025},
-  volume={},
+  volume={22},
   number={},
-  pages={1-1},
+  pages={1-5},
   doi={10.1109/LGRS.2025.3616338}}
